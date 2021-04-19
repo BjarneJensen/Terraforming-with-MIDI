@@ -1,2 +1,1 @@
-# Terraforming with MIDI
- 
+This is an example of how to build a landscape in TouchDesigner using MIDI. The landscape can then be used to test for collisions with other bodies and send MIDI notes when a collision is detected. I encourage you to try out translating different TOPs to MIDI output. I use loopbe (https://www.nerds.de/en/loopbe1.html) for midi routing, but you can use TDAbleton as well, or send midi directly to an external synth.
